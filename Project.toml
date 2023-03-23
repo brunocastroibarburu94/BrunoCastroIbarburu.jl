@@ -1,7 +1,7 @@
 name = "BrunoCastroIbarburu"
 uuid = "e06fa01e-879f-4c02-aae1-e5bac33212fc"
 authors = ["Bruno Castro Ibarburu"]
-version = "1.0.0-DEV"
+version = "0.0.1-DEV"
 
 [compat]
 julia = "1"
